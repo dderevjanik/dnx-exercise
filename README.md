@@ -1,6 +1,6 @@
 # dnx-exercies
 
-Visit url:
+Visit url: [https://dderevjanik.github.io/dnx-exercise/](https://dderevjanik.github.io/dnx-exercise/)
 
 Or download and run it on localhost
 
