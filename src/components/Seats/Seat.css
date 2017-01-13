@@ -1,0 +1,23 @@
+.seat {
+    padding: 10px;
+}
+
+.seat.occupied {
+    background-color: indianred;
+}
+
+.seat.selected {
+    background-color: yellow;
+}
+
+.seat.free {
+    background-color: lightgreen;
+}
+
+.seat.free:hover {
+    background-color: greenyellow;
+}
+
+input {
+    display: none;
+}

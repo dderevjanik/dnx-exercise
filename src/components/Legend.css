@@ -1,0 +1,20 @@
+.legend {
+    font-size: small;
+}
+
+.legend > span {
+    padding-left: 15px;
+    margin-left: 20px;
+}
+
+.legend-green {
+    background-color: lightgreen;
+}
+
+.legend-yellow {
+    background-color: yellow;
+}
+
+.legend-red {
+    background-color: indianred;
+}
