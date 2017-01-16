@@ -2,6 +2,7 @@
   "name": "dnx-exercise",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dderevjanik.github.io/dnx-exercise/",
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.8.5"
